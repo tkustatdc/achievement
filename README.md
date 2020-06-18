@@ -1,4 +1,4 @@
-# TSDC -- 成果發表
+# TSDC -- 專案成果分享
 ### Tamkang Statistics Data Club
 TSDC (Tamkang Statistics Data Club)為淡江統計學系系友所成立的社團，提供對於資料分析有興趣的系友們一個共同學習與討論的空間。
 
@@ -13,6 +13,6 @@ TSDC (Tamkang Statistics Data Club)為淡江統計學系系友所成立的社團
 
 
 ### <a href="https://tkustatdc.github.io/achievement/"> 成果發表 </a>
-TSDC 成果發表：歷屆 The DeepData Program 系上學生完成的資料科學專案成果分享。 
+TSDC 專案成果分享：歷屆 The DeepData Program 系上學生完成的資料科學專案成果分享。 
 <br>
 詳細資訊請點選上方成果發表的連結!!
